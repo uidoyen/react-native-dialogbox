@@ -35,6 +35,6 @@
     "react-native": ">=0.30.0 < 0.54.0"
   },
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.2"
   }
 }
